@@ -51,7 +51,7 @@ Swarm Press is the media arm of the Swarm community. It was created to help ampl
 
 #### Latest Tweets
 
-[![](https://tweeco.pushkaryadav.in/api/handle/catalystswarm)](https://tweeco.pushkaryadav.in)
+[![](https://tweeco.pushkaryadav.in/api/handle/catalystswarm)](https://twitter.com/catalystSwarm)
 
 #### After Town Hall Repository
 
