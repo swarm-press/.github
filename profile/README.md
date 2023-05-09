@@ -21,7 +21,7 @@
   <a href="https://www.youtube.com/channel/UCuXdR8JMH0QriU0uOTVpg3w"><strong>Latest Videos</strong></a> |
   <a href="#what-is-swarm-press"><strong>What is Swarm Press?</strong></a> |
   <a href="#latest-tweets"><strong>Latest Tweets</strong></a> |
-  <a href="https://github.com/swarm-press/swarm-ath-main"><strong>After Town Hall</strong></a>
+  <a href="#after-town-hall-repository"><strong>After Town Hall</strong></a>
 </p>
 
 ---
