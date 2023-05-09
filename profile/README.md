@@ -21,7 +21,7 @@
   <a href="https://www.youtube.com/channel/UCuXdR8JMH0QriU0uOTVpg3w"><strong>Latest Videos</strong></a> |
   <a href="#what-is-swarm-press"><strong>What is Swarm Press?</strong></a> |
   <a href="https://twitter.com/CatalystSwarm"><strong>Latest Tweets</strong></a> |
-  <a href="https://github.com/Catalyst-Swarm/After-Town-Hall"><strong>After Town Hall</strong></a>
+  <a href="https://github.com/swarm-press/swarm-ath-main"><strong>After Town Hall</strong></a>
 </p>
 
 ---
@@ -55,7 +55,7 @@ Swarm Press is the media arm of the Swarm community. It was created to help ampl
 
 #### After Town Hall Repository
 
-Check out our [After Town Hall repository](https://github.com/Catalyst-Swarm/After-Town-Hall)y on GitHub to view the summaries of all the past town halls.
+Check out our [After Town Hall repository](https://github.com/swarm-press/swarm-ath-main) on GitHub to view the summaries of all the past town halls.
 
 #### Other Links
 
@@ -70,9 +70,11 @@ Check out our [After Town Hall repository](https://github.com/Catalyst-Swarm/Aft
 
 
 <p align="center">
-  Want to support us? <br>
+  Want to support us?
+</p>
 Donate to our project fund:
+  <br>
 addr1qyn5dwmcevsp6qgm6ea8a63tmktusyt6a4ezspl6j8wlsyf58gh4c3495qjyshkan696vhdjcpx4ewn3gtzf4d832a9s0m3dgd
-<br>
+</p>
 or delegate to [SWARM](https://pool.pm/e40edb5a243c9ef00296860c6b7c8272fd5923ac52b5050d68e80d9b) stakepool. 🙏
 </p>
