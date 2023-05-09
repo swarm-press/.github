@@ -68,13 +68,12 @@ Check out our [After Town Hall repository](https://github.com/swarm-press/swarm-
 - [Gitbook](https://app.gitbook.com/s/WRaJlGTSIjkHNdNBhpUN/)
 - [Gitlab](https://gitlab.com/swarmlab2)
 
-  <p align="center">
+
 #### Want to support us?
- </p> 
+
 Donate to our project fund:
- </p> 
-``addr1qyn5dwmcevsp6qgm6ea8a63tmktusyt6a4ezspl6j8wlsyf58gh4c3495qjyshkan696vhdjcpx4ewn3gtzf4d832a9s0m3dgd``
- </p> 
+
+`addr1qyn5dwmcevsp6qgm6ea8a63tmktusyt6a4ezspl6j8wlsyf58gh4c3495qjyshkan696vhdjcpx4ewn3gtzf4d832a9s0m3dgd`
+
 or delegate to [[SWARM]](https://pool.pm/e40edb5a243c9ef00296860c6b7c8272fd5923ac52b5050d68e80d9b) stakepool. 🙏
-  </p> 
-<p align="center">
+
